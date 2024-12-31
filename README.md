@@ -24,7 +24,6 @@ Welcome to my GitHub! I'm a passionate **Flutter Developer** committed to crafti
 
 ## 🔗 Let's Connect!
 - 🌐 [GitHub](https://github.com/devangigithub)
-- 📧 Email: [Deavngi Suvariya](dewangisuvariya@gmail.com)
 
 ---
 
