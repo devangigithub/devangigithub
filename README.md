@@ -21,13 +21,10 @@ Welcome to my GitHub! I'm a passionate **Flutter Developer** committed to crafti
 
 ---
 
-## 📈 GitHub Stats
-![Devangi's GitHub stats](https://github-readme-stats.vercel.app/api?username=devangigithub&show_icons=true&theme=radical)
-
 
 ## 🔗 Let's Connect!
 - 🌐 [GitHub](https://github.com/devangigithub)
-- 📧 Email: [your-email@example.com](dewangisuvariya@gmail.com)
+- 📧 Email: [Deavngi Suvariya](dewangisuvariya@gmail.com)
 
 ---
 
