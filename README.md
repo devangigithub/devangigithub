@@ -1,15 +1,34 @@
-# 👋 Hi, I’m Devangi Suvariya
+# 👋 Hi, I'm Devangi Suvariya
 
-- 🌱 I’m a **Flutter Developer** passionate about building beautiful and functional mobile apps.
-- 🔭 Currently working on improving my skills in state management and animations in Flutter.
-- 🚀 Open to collaborating on exciting Flutter projects.
-- 📫 Reach me on [GitHub](https://github.com/devangigithub)
+Welcome to my GitHub! I'm a passionate **Flutter Developer** committed to crafting high-quality, user-centric mobile applications. With a keen eye for detail and a dedication to continuous learning, I aim to bring ideas to life through code.
 
-## 🛠️ Tech Stack
-- **Languages**: Dart, C & C++
-- **Frameworks**: Flutter
-- **State Management**: Provider, Riverpod
-- **Tools**: VS Code, Android Studio
+---
 
-## 🔗 Connect With Me
-- [GitHub Profile](https://github.com/devangigithub)
+## 💼 About Me
+- 🌟 **Expertise:** Building cross-platform mobile apps using **Flutter**.
+- 📚 **Currently Learning:** Advanced state management (Provider, Riverpod) and custom animations in Flutter.
+- 💡 **Open to:** Collaborations on innovative Flutter projects and contributing to open-source.
+
+---
+
+## 🛠️ Technical Skills
+- **Programming Language:** Dart, C & C++
+- **Framework:** Flutter
+- **State Management:** Provider, Riverpod
+- **Tools & IDEs:** Visual Studio Code, Android Studio
+- **Version Control:** Git, GitHub
+- **UI/UX Design:** Figma (for prototyping and design integration)
+
+---
+
+## 📈 GitHub Stats
+![Devangi's GitHub stats](https://github-readme-stats.vercel.app/api?username=devangigithub&show_icons=true&theme=radical)
+
+
+## 🔗 Let's Connect!
+- 🌐 [GitHub](https://github.com/devangigithub)
+- 📧 Email: [your-email@example.com](dewangisuvariya@gmail.com)
+
+---
+
+"Building apps that don't just work but leave a lasting impression." 🌟
